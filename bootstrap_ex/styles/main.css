@@ -1,0 +1,11 @@
+.brand-logo {
+	max-width: 20px;
+}
+
+.my-theme-navbar {
+	background-color: red;
+}
+
+#my-theme .my-theme-panel-head {
+	background-color: blue;
+}

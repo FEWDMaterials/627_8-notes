@@ -1,0 +1,18 @@
+.mdl,
+.bootstrap,
+.semantic {
+	min-height: 200px;
+	padding: 20px;
+}
+
+.mdl__inner,
+.bootstrap__inner,
+.semantic__inner {
+	border: 1px solid #ccc;
+	background-color: #eee;
+	height: 100%;
+}
+
+.bootstrap__inner {
+	height: 200px;
+}
